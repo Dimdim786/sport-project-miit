@@ -1,6 +1,5 @@
-package com.sport.project.controller;
+package com.sport.project.controller.mvc;
 
-import org.springframework.boot.web.servlet.error.ErrorController;
 import org.springframework.web.bind.annotation.GetMapping;
 
 public class CustomErrorController {

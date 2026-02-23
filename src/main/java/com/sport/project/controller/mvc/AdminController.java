@@ -1,4 +1,4 @@
-package com.sport.project.controller;
+package com.sport.project.controller.mvc;
 
 import com.sport.project.dao.entity.BaseEntity;
 import com.sport.project.dto.StudentDTO;
